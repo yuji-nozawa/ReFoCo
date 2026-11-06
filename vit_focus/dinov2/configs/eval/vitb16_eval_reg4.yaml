@@ -1,0 +1,14 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+#
+# This source code is licensed under the Apache License, Version 2.0
+# found in the LICENSE file in the root directory of this source tree.
+
+# Modified by Kioxia Corporation, 2026.
+
+student:
+  arch: vit_base
+  patch_size: 16
+  block_chunks: 4
+  num_selections: 2 # This is used for feature extraction when hs_flag=True (max: 12)
+  num_register_tokens: 4
+  phsblock_idx_from_end: 0

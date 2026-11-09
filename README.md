@@ -5,6 +5,7 @@ Official Pytorch implementation of the paper:
 
 [![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-Accepted-brightgreen)](https://neurips.cc/virtual/2026/poster/155703)
 [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-orange)](https://openreview.net/forum?id=3aWhzsaHua)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Model-yellow)](https://huggingface.co/yuji-nozawa/ReFoCo)
 [![Project Page](https://img.shields.io/badge/Project%20Page-blue)](https://yuji-nozawa.github.io/ReFoCo)
 
 
